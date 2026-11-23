@@ -1,0 +1,19 @@
+[
+  {
+    "name": "MiruRoll",
+    "pkg": "dev.kartiks.animiru.miruroll",
+    "apk": "miruroll.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "18.0.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "id": 7463514907068706782,
+        "lang": "all",
+        "name": "MiruRoll",
+        "baseUrl": "https://beta-api.crunchyroll.com"
+      }
+    ]
+  }
+]
